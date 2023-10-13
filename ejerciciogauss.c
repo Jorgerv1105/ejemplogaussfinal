@@ -15,5 +15,8 @@ int main()
         {
             suma=(n*(n+1))/2;
         }
+    printf("\nLa sumatoria por el metodo de Gauss del numero %d es: %d\n", n, suma);
+    }
+    printf("\nGracias por utilizar el programa \n");   
 return 0;
 }
